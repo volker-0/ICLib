@@ -1,2 +1,1 @@
-# RechargeLib
-Lib for Inner Core 2.0
+Libreries for Inner Core 2.0
